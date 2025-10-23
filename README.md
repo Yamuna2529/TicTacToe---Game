@@ -8,13 +8,12 @@ It’s a simple yet effective project that highlights problem-solving and Java p
 
 ## 💻 Tech Stack
 - **Language:** Java  
-- **IDE:** Eclipse / IntelliJ IDEA / VS Code (mention yours)  
+- **IDE:** Eclipse
 - **Concepts Used:**  
   - Classes & Objects  
   - Arrays / 2D Arrays  
   - Loops & Conditional Statements  
   - Exception Handling  
-  - (If GUI-based → Swing / AWT)
 
 ## 🚀 Features
 ✅ Two-player interactive gameplay  
